@@ -2,6 +2,11 @@
     "name": "madpilot78/mpnet-php-cs",
     "description": "Custom coding standard sniffs",
     "type": "phpcodesniffer-standard",
+    "keywords": [
+        'phpcs',
+        'phpcs-standard',
+        'trailing-commas'
+    ],
     "license": "UNLICENSE",
     "version": "1.0.0",
     "autoload": {
