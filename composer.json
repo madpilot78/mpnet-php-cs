@@ -8,10 +8,10 @@
         "trailing-commas"
     ],
     "license": "UNLICENSE",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "autoload": {
         "psr-4": {
-            "madpilot78\\MPNetPHPCS\\": "src/"
+            "madpilot78\\MPNetPHPCS\\": "MPNetPHPCS/"
         }
     },
     "authors": [
