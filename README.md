@@ -9,10 +9,14 @@
 ## Install
 
 ```sh
-$ composer require madpilot78/mpnet-php-cs
+$ composer require --dev madpilot78/mpnet-php-cs
 ```
 
-To use this, add the sniffs to your `phpcs.xml` file.
+To use this, add the sniffs to your `phpcs.xml` file like this:
+
+```xml
+<rule ref="MPNetPHPCS.Arrays.ArrayDeclarationNoTrailingComma"/>
+```
 
 ## License
 
