@@ -27,7 +27,6 @@
         </properties>
     </rule>
 
-    <config name="installed_paths" value="vendor/slevomat/coding-standard"/>
     <rule ref="SlevomatCodingStandard.Namespaces.AlphabeticallySortedUses">
         <properties>
             <property name="caseSensitive" value="true"/>
