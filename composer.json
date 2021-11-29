@@ -3,9 +3,9 @@
     "description": "Custom coding standard sniffs",
     "type": "phpcodesniffer-standard",
     "keywords": [
-        'phpcs',
-        'phpcs-standard',
-        'trailing-commas'
+        "phpcs",
+        "phpcs-standard",
+        "trailing-commas"
     ],
     "license": "UNLICENSE",
     "version": "1.0.0",
