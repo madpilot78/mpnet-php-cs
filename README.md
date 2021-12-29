@@ -20,6 +20,6 @@ To use it, add the sniffs to your `phpcs.xml` file like this:
 
 ## License
 
-Releasing this under the `UNLICE`.
+Releasing this under the `UNLICENSE`.
 
 Please see the [Unlicense File](UNLICENSE.) for more information.
